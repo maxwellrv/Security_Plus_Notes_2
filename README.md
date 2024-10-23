@@ -5,8 +5,8 @@ Topics that will be included in these notes:
 - Physical Security
 - Fencing and Bollards
 - Attacking with Brute Force
-- Surveillencve Systems
-- Bypassing Surveillenve Systems
+- Surveillance Systems
+- Bypassing Surveillance Systems
 - Access Control Vestibules
 - Door Locks
 - Access Badge Cloning
